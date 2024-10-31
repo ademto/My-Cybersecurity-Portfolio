@@ -23,6 +23,11 @@ I created two PowerShell scripts to automate this:
 2. **Script for Creating OUs and Users:** This script sets up the OUs and creates users,
    organizing them according to their respective teams.
 
+   ![Project Screenshot](Images/12.JPG)
+   ![Project Screenshot](Images/13.JPG)
+   ![Project Screenshot](Images/14.JPG)
+   ![Project Screenshot](Images/1..JPG)
+
 **Phase 2: Azure AD Integration with On-Premises AD
 Objective:**
 Set up **Azure AD (Entra ID)** and synchronize it with on-prem AD using **Azure AD Connect** to
@@ -37,6 +42,10 @@ enable **SSO** and central identity management.
    users.
 
 **Entra ID Users and Groups:**
+![Project Screenshot](Images/21.JPG)
+![Project Screenshot](Images/22.JPG)
+![Project Screenshot](Images/3.JPG)
+![Project Screenshot](Images/5.JPG)
 
 **Phase 3: Group Policies and NPS Configuration
 Objective:**
