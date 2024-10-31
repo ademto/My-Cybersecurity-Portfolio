@@ -1,6 +1,6 @@
 # Emmanuel's Project Portfolio
 
-Welcome to my project portfolio! Below are some of my key projects that showcase my skills in **network infrastructure, cybersecurity, cloud integration, and software development**.
+Welcome to my project portfolio! Below are some of my key projects that showcase my skills in **network infrastructure, cybersecurity, cloud integration, software development, and cryptography**.
 
 ---
 
@@ -43,6 +43,47 @@ Developed a **Security Operations Center (SOC) threat detection system** using *
 Performed a comprehensive **security audit on Active Directory Domain Services (ADDS)** to assess and secure configurations. Used **GPO, DHCP, and RAID** to optimize AD infrastructure and reduce risk exposure by **40%**. Configured GPOs to enforce stricter access controls and applied best practices for AD hardening. Assessed and mitigated vulnerabilities in the AD environment to strengthen the security posture of the entire network.
 
 **Technologies Used:** Active Directory (AD DS), Group Policy (GPO), DHCP, RAID, Windows Server 2022, Security Auditing
+
+---
+
+## **Cryptography Projects**
+
+### **Encrypted Messaging System**  
+Developed a **secure messaging application** using **AES encryption** in Python. The application encrypts messages before sending them over the network, ensuring that only the intended recipient can decrypt and read the message.
+
+**Key Features:**  
+- End-to-end encryption with **AES-256**.
+- User authentication to prevent unauthorized access.
+- Simple user interface for easy encryption and decryption of messages.
+
+**Technologies Used:** Python, PyCryptodome  
+**GitHub Link:** [Encrypted Messaging System](https://github.com/yourusername/Encrypted-Messaging-System)
+
+---
+
+### **RSA Key Generator and Digital Signature Validator**  
+Built a tool in Python to **generate RSA key pairs** and **digitally sign messages**. This tool includes RSA key generation, message signing, and signature verification.
+
+**Key Features:**  
+- **RSA encryption/decryption** for secure data transmission.
+- **Digital signature verification** for authentication and integrity.
+- Support for various key sizes (2048, 4096).
+
+**Technologies Used:** Python, Cryptography library  
+**GitHub Link:** [RSA Key Generator](https://github.com/yourusername/RSA-Key-Generator)
+
+---
+
+### **File Encryption and Decryption Application**  
+Created a command-line tool in Python for **file encryption and decryption** using **AES-GCM** mode for enhanced security and data integrity.
+
+**Key Features:**  
+- Encrypts files of any format (e.g., text, images, PDFs).
+- Uses **AES-GCM** for authenticated encryption, preventing tampering.
+- Generates a unique IV (Initialization Vector) for each encryption.
+
+**Technologies Used:** Python, Cryptography library  
+**GitHub Link:** [File Encryption Tool](https://github.com/yourusername/File-Encryption-Tool)
 
 ---
 
