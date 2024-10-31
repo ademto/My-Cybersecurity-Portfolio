@@ -40,7 +40,7 @@ This project covers the installation and configuration of Windows Server 2022, s
 2. Click on **Add roles and features**.
 3. Select **Active Directory Domain Services** and complete the installation.
 4. After installation, promote the server to a domain controller:
-   - Create a new forest with the domain name `yourfirstname.ca`.
+   - Create a new forest with the domain name `emmanuel.ca`.
 5. Create an Organizational Unit (OU) named **Toronto**.
 
 ### User and Group Management
@@ -132,30 +132,61 @@ _(Add your screenshots here, with descriptions as needed.)_
 
 1. **Installation of Windows Server 2022**:
 
-   - ![Installation Screenshot](path/to/screenshot1.png)
+   - ![Installation Screenshot](Images/ad1.png)
 
-2. **Active Directory Configuration**:
+2. **Active Directory Configuration & User and Group Management & Security Configurations**:
 
-   - ![AD Configuration Screenshot](path/to/screenshot2.png)
+   - ![AD Configuration Screenshot](Images/ad2.png)
+   - ![AD Configuration Screenshot](Images/ad3.png)
+   - ![AD Configuration Screenshot](Images/ad4.png)
+   - ![AD Configuration Screenshot](Images/ad5.png)
+   - ![AD Configuration Screenshot](Images/ad6.png)
+   - ![AD Configuration Screenshot](Images/ad7.png)
+   - ![AD Configuration Screenshot](Images/ad8.png)
+   - ![AD Configuration Screenshot](Images/ad9.png)
+   - ![AD Configuration Screenshot](Images/ad10.png)
+   - ![AD Configuration Screenshot](Images/ad11.png)
+   - ![AD Configuration Screenshot](Images/ad12.png)
+   - ![AD Configuration Screenshot](Images/ad13.png)
+   - ![AD Configuration Screenshot](Images/ad14.png)
+   - ![AD Configuration Screenshot](Images/ad15.png)
+   - ![AD Configuration Screenshot](Images/ad16.png)
+   - ![AD Configuration Screenshot](Images/ad17.png)
 
 3. **DHCP Configuration**:
 
-   - ![DHCP Configuration Screenshot](path/to/screenshot3.png)
+   - ![DHCP Configuration Screenshot](Images/ad18.png)
+   - ![DHCP Configuration Screenshot](Images/ad19.png)
+   - ![DHCP Configuration Screenshot](Images/ad20.png)
 
 4. **WDS Installation**:
 
-   - ![WDS Installation Screenshot](path/to/screenshot4.png)
+   - ![WDS Installation Screenshot](Images/ad21.png)
+   - ![WDS Installation Screenshot](Images/ad22.png)
+   - ![WDS Installation Screenshot](Images/ad23.png)
+   - ![WDS Installation Screenshot](Images/ad24.png)
+   - ![WDS Installation Screenshot](Images/ad25.png)
 
 5. **IIS Setup**:
-   - ![IIS Setup Screenshot](path/to/screenshot5.png)
 
-_(Continue adding screenshots and descriptions for each significant step or configuration.)_
+   - ![IIS Setup Screenshot](Images/ad36.png)
+   - ![IIS Setup Screenshot](Images/ad37.png)
+   - ![IIS Setup Screenshot](Images/ad27.png)
+
+6. **VPN and NAT Setup**:
+
+   - ![VPN and NAT Setup Screenshot](Images/ad31.png)
+   - ![VPN and NAT Setup Screenshot](Images/ad32.png)
+   - ![VPN and NAT Setup Screenshot](Images/ad33.png)
+   - ![VPN and NAT Setup Screenshot](Images/ad34.png)
+   - ![VPN and NAT Setup Screenshot](Images/ad35.png)
+
+7. **RAID Configuration**:
+   - ![RAID Configuration Screenshot](Images/ad27.png)
+   - ![RAID Configuration Screenshot](Images/ad28.png)
+   - ![RAID Configuration Screenshot](Images/ad29.png)
+   - ![RAID Configuration Screenshot](Images/ad30.png)
 
 ## Conclusion
 
 This project successfully demonstrates the deployment and configuration of Windows Server 2022, highlighting key services such as ADDS, DHCP, and WDS. The integration of security audits reinforces the importance of maintaining a secure network environment, ensuring user permissions are appropriately managed. The project emphasizes the significance of implementing the principle of least privilege to minimize security risks.
-
-## References
-
-- Microsoft Documentation for Windows Server 2022
-- Various online resources and tutorials on Active Directory, DHCP, and WDS configuration.
