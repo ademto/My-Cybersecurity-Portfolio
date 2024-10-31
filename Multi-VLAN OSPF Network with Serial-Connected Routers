@@ -46,6 +46,11 @@ enable **SSO** and central identity management.
 ![Project Screenshot](Images/22.JPG)
 ![Project Screenshot](Images/3.JPG)
 ![Project Screenshot](Images/5.JPG)
+![Project Screenshot](Images/8.JPG)
+![Project Screenshot](Images/9.JPG)
+![Project Screenshot](Images/4.JPG)
+![Project Screenshot](Images/17.JPG)
+![Project Screenshot](Images/23.JPG)
 
 **Phase 3: Group Policies and NPS Configuration
 Objective:**
@@ -58,6 +63,9 @@ access.
    users.
 3. Tested VPN connectivity with a Helpdesk user.
 
+![Project Screenshot](Images/15.JPG)
+![Project Screenshot](Images/16.JPG)
+
 **Phase 4: Office 365 Configuration for Collaboration
 Objective:**
 Set up **Office 365** and ensure smooth collaboration between users and teams.
@@ -67,6 +75,10 @@ Set up **Office 365** and ensure smooth collaboration between users and teams.
 2. Created a **SharePoint Team Site** for the Marketing Team.
 3. Configured **email forwarding restrictions** to prevent data leaks.
 4. Enabled **OneDrive for Business** for file sharing across teams.
+
+![Project Screenshot](Images/18.JPG)
+![Project Screenshot](Images/19.JPG)
+![Project Screenshot](Images/17.JPG)
 
 **Phase 5: Monitoring and Compliance Setup
 Objective:**
@@ -84,6 +96,10 @@ Enable **monitoring and alerts** to track user activities and ensure compliance.
   compliance e.t.c).
 - Workaround: Demonstrated basic setups and simulated workflows for the
   unavailable features.
+
+  ![Project Screenshot](Images/10.JPG)
+  ![Project Screenshot](Images/11.JPG)
+  ![Project Screenshot](Images/20.JPG)
 
 **Summary of Accomplishments**
 
