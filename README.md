@@ -1,5 +1,3 @@
-# My-Cybersecurity-Portfolio
-
 # Emmanuel's Project Portfolio
 
 Welcome to my project portfolio! Below are some of my key projects that showcase my skills in **network infrastructure, cybersecurity, cloud integration, and software development**.
